@@ -109,7 +109,7 @@ over this README and the script that subscribed to you
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="snake.svg" alt="snake"/>
 </p>
 
 
